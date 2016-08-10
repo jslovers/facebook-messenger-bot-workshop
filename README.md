@@ -1,2 +1,2 @@
 # facebook-messenger-bot
-facebook-messenger-bot using wit.ai
+facebook-messenger-bot
